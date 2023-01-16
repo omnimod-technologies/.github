@@ -19,3 +19,8 @@
 
 - [ ] Tests
 - [ ] Documented changes and additions
+
+
+## Commit message
+
+Commit message in [Angular Format](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#commit)
