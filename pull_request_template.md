@@ -23,4 +23,4 @@
 
 ## Commit message
 
-Commit message in angular format
+Commit message in [Angular Format](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#commit)
