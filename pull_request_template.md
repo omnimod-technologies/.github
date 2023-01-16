@@ -19,3 +19,8 @@
 
 - [ ] Tests
 - [ ] Documented changes and additions
+
+
+## Commit message
+
+Commit message in angular format
