@@ -1,6 +1,6 @@
 ## Related Issue(s)
 
-- `link to Jira`
+- Resolves #
 
 ## Proposed changes
 
